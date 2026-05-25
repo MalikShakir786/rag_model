@@ -7,6 +7,7 @@ Instead of writing fixed rules, we provide data to the system, and it learns pat
 
 In Machine Learning:
 
+
 You give the system data
 It finds patterns and relationships
 It builds a model
